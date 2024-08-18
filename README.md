@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viktorov-Y&layout=compact"
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viktorov-Y&layout=compact"/>
 **Viktorov-Y/Viktorov-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
